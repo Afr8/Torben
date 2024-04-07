@@ -1,0 +1,55 @@
+Um die Mindestanforderungen der Verordnung umzusetzen, müssen wir die Anforderungen in konkrete Maßnahmen herunterbrechen. Die Verordnung umfasst verschiedene Aspekte wie IKT-Risikomanagement, Meldung von IKT-Vorfällen, Zusammenarbeit mit nationalen Behörden und die Resilienz von Finanzunternehmen. Hier sind modulare Maßnahmen, die den entsprechenden Artikeln und Unterabsätzen zugeordnet sind:
+
+### Allgemeine Maßnahmen
+
+#### Maßnahme 1: Bestimmung der Betreiber wesentlicher Dienste
+- **Artikel/Unterabsatz:** Allgemein
+- **Schritte:**
+  1. Erstellung einer Liste der Kreditinstitute, Handelsplätze und zentralen Gegenparteien, die unter die Verordnung fallen.
+  2. Dokumentation der Kriterien für die Identifizierung dieser Betreiber.
+  3. Implementierung eines Prozesses zur regelmäßigen Überprüfung und Aktualisierung dieser Liste.
+
+#### Maßnahme 2: Entwicklung eines IKT-Risikomanagement-Programms
+- **Artikel/Unterabsatz:** (16)
+- **Schritte:**
+  1. Definition der Anforderungen an das IKT-Risikomanagement gemäß der Verordnung.
+  2. Entwicklung eines IKT-Risikomanagement-Programms, das diese Anforderungen erfüllt.
+  3. Dokumentation des Programms und der zugrundeliegenden Prozesse.
+  4. Implementierung eines Tools zur Überwachung und Bewertung von IKT-Risiken.
+
+#### Maßnahme 3: Etablierung eines Meldesystems für IKT-Vorfälle
+- **Artikel/Unterabsatz:** (16)
+- **Schritte:**
+  1. Definition der Anforderungen für die Meldung von IKT-Vorfällen.
+  2. Entwicklung eines Systems zur Erfassung, Bewertung und Meldung von IKT-Vorfällen.
+  3. Schulung der Mitarbeiter im Umgang mit dem Meldesystem.
+  4. Implementierung eines Tools zur Unterstützung des Meldesystems.
+
+### Zusammenarbeit und Informationsaustausch
+
+#### Maßnahme 4: Aufbau eines Netzwerks für die Zusammenarbeit
+- **Artikel/Unterabsatz:** (18), (19)
+- **Schritte:**
+  1. Identifikation relevanter nationaler Behörden und Kooperationsgruppen.
+  2. Entwicklung eines Rahmens für die Zusammenarbeit und den Informationsaustausch.
+  3. Aufbau von Kommunikationskanälen zu diesen Gruppen und Behörden.
+  4. Abschluss von Kooperationsvereinbarungen zur Förderung des Informationsaustauschs.
+
+#### Maßnahme 5: Fachliche Beratung und Koordinierungsmechanismen
+- **Artikel/Unterabsatz:** (18)
+- **Schritte:**
+  1. Ermittlung von Experten und zuständigen Behörden für die fachliche Beratung.
+  2. Entwicklung eines Anfrageprozesses für fachliche Beratung.
+  3. Einrichtung von Koordinierungsmechanismen für den schnellen Austausch von Informationen und Ressourcen.
+
+### Resilienz und physische Sicherheit
+
+#### Maßnahme 6: Integration von IKT- und physischer Resilienz
+- **Artikel/Unterabsatz:** (19)
+- **Schritte:**
+  1. Überprüfung der aktuellen Strategien zur physischen Resilienz.
+  2. Integration von IKT-Risikomanagement in die Strategien zur physischen Resilienz.
+  3. Anpassung bestehender Notfallpläne zur Berücksichtigung von IKT-Risiken.
+  4. Durchführung regelmäßiger Übungen zur Überprüfung der Resilienz gegen physische und digitale Bedrohungen.
+
+Diese Maßnahmen bilden die Grundlage für die Umsetzung der Anforderungen der Verordnung in konkrete, operationalisierbare Arbeitsschritte. Es ist wichtig, dass jede dieser Maßnahmen regelmäßig überprüft und aktualisiert wird, um sicherzustellen, dass sie den sich ändernden Anforderungen und Bedrohungen gerecht werden.
